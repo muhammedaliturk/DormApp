@@ -16,3 +16,5 @@ will be able to pay dormitory fees with virtual POS.
 will be able to communicate with the administrator through the application.
 
 will be able to get permission out through the app.
+
+The visual parts of the application will become more beautiful in the future. Right now I'm just concentrating on the backend part.

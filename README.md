@@ -2,6 +2,7 @@
 Automation application for student dormitories
 
 student using DormApp;
+
 Will be able to see the announcements/events and indicate whether or not to participate in the events in the form of voting,
 
 will be able to see the occupancy status of the existing washing and drying machines in the dormitory.

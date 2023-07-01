@@ -20,6 +20,7 @@ will be able to get permission out through the app.
 The visual parts of the application will become more beautiful in the future. Right now I'm just concentrating on the backend part.
 
 Login screen
-![1688243065968](https://github.com/muhammedaliturk/DormApp/assets/103900615/6181b34e-fd77-4182-9f03-3dfb80e54959)
+![1688243065968](https://github.com/muhammedaliturk/DormApp/assets/103900615/6654ec59-8d96-45ac-8e3e-5e5bb796dbad)
+
 
 

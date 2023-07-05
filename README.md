@@ -21,7 +21,9 @@ The visual parts of the application will become more beautiful in the future. Ri
 
 Login screen
 
-![1688243065968](https://github.com/muhammedaliturk/DormApp/assets/103900615/6654ec59-8d96-45ac-8e3e-5e5bb796dbad)
+![photo_2023-07-06_00-04-10](https://github.com/muhammedaliturk/DormApp/assets/103900615/42e4fdd4-3339-4218-9698-389252f13bb1)
+
+
 
 i am using firebase for authentication on login screen. Application asks for institution id, email and password on first login.
 In the next logins, the institution id and email will come automatically, just enter the password.
@@ -29,7 +31,8 @@ If you want, you can use fingerprint.
 
 Main Page
 
-![1688243065950](https://github.com/muhammedaliturk/DormApp/assets/103900615/8f6ca6fa-d830-4535-8157-65d2d71472bd)
+![photo_2023-07-06_00-03-57](https://github.com/muhammedaliturk/DormApp/assets/103900615/f6c3ab6f-af2a-4dad-beeb-992e13a39bed)
+
 
 I'm using firebase firestore, realtime and storage database on the home page.The user's name is at the top of the screen.
 Announcements/events in slider form and clickable.

@@ -19,6 +19,8 @@ will be able to get permission out through the app.
 
 The visual parts of the application will become more beautiful in the future. Right now I'm just concentrating on the backend part.
 
+I am designing the DormApp to participate in Teknofest
+
 Login screen
 
 ![photo_2023-07-06_00-04-10](https://github.com/muhammedaliturk/DormApp/assets/103900615/42e4fdd4-3339-4218-9698-389252f13bb1)

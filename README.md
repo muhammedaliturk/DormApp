@@ -37,7 +37,7 @@ Main Page(user interface)
 
 Main Page(admin interface)
 
-![Screenshot_20230729_224309](https://github.com/muhammedaliturk/DormApp/assets/103900615/9ae64a2c-f9ec-41f5-81c7-0e94b073eeaa)
+![Screenshot_20230729_224309](https://github.com/muhammedaliturk/DormApp/assets/103900615/5649d293-82b2-48a3-9b67-666f181c2215)
 
 
 I'm using firebase firestore, realtime and storage database on the home page.The user's name is at the top of the screen.

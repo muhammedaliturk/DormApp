@@ -31,13 +31,21 @@ i am using firebase for authentication on login screen. Application asks for ins
 In the next logins, the institution id and email will come automatically, just enter the password.
 If you want, you can use fingerprint. 
 
-Main Page
+Main Page(user interface)
 
 ![photo_2023-07-06_00-03-57](https://github.com/muhammedaliturk/DormApp/assets/103900615/f6c3ab6f-af2a-4dad-beeb-992e13a39bed)
+
+Main Page(admin interface)
+
+![Screenshot_20230729_224309](https://github.com/muhammedaliturk/DormApp/assets/103900615/9ae64a2c-f9ec-41f5-81c7-0e94b073eeaa)
 
 
 I'm using firebase firestore, realtime and storage database on the home page.The user's name is at the top of the screen.
 Announcements/events in slider form and clickable.
 when you click any Announcements/events, details of announcements/events appear in popup format
+admin can add announcements from the + button.
+Users newly registered to the application are in unapproved user status. 
+Admin can see unapproved users from the notification button in the upper right corner of the screen.
+
 
 ![1688243065942](https://github.com/muhammedaliturk/DormApp/assets/103900615/71925c6b-3371-4c4f-b26f-2f52570dfa50)

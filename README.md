@@ -31,6 +31,11 @@ i am using firebase for authentication on login screen. Application asks for ins
 In the next logins, the institution id and email will come automatically, just enter the password.
 If you want, you can use fingerprint. 
 
+![Screenshot_20230730_152215](https://github.com/muhammedaliturk/DormApp/assets/103900615/f93f63bd-b39b-47c6-94c3-fe794089b1d2)
+
+After the user becomes a member, he/she becomes an unapproved user. The user cannot login to the application until the admin approves the user.
+
+
 Main Page(user interface)
 
 ![photo_2023-07-06_00-03-57](https://github.com/muhammedaliturk/DormApp/assets/103900615/f6c3ab6f-af2a-4dad-beeb-992e13a39bed)
@@ -47,5 +52,10 @@ admin can add announcements from the + button.
 Users newly registered to the application are in unapproved user status. 
 Admin can see unapproved users from the notification button in the upper right corner of the screen.
 
+Unapproved Users Screen
 
-![1688243065942](https://github.com/muhammedaliturk/DormApp/assets/103900615/71925c6b-3371-4c4f-b26f-2f52570dfa50)
+![Screenshot_20230730_151223](https://github.com/muhammedaliturk/DormApp/assets/103900615/33b0c7a6-6b41-49e1-88a7-957fd2229d2d)
+
+The admin can approve the user from this page. After approval, the user can access the application.
+
+

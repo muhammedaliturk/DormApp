@@ -21,7 +21,7 @@ The visual parts of the application will become more beautiful in the future. Ri
 
 I am designing the DormApp to participate in Teknofest
 
-Login screen
+# Login screen
 
 ![photo_2023-07-06_00-04-10](https://github.com/muhammedaliturk/DormApp/assets/103900615/42e4fdd4-3339-4218-9698-389252f13bb1)
 
@@ -36,11 +36,11 @@ If you want, you can use fingerprint.
 After the user becomes a member, he/she becomes an unapproved user. The user cannot login to the application until the admin approves the user.
 
 
-Main Page(user interface)
+# Main Page(user interface)
 
 ![photo_2023-07-06_00-03-57](https://github.com/muhammedaliturk/DormApp/assets/103900615/f6c3ab6f-af2a-4dad-beeb-992e13a39bed)
 
-Main Page(admin interface)
+# Main Page(admin interface)
 
 ![Screenshot_20230729_224309](https://github.com/muhammedaliturk/DormApp/assets/103900615/5649d293-82b2-48a3-9b67-666f181c2215)
 
@@ -52,7 +52,7 @@ admin can add announcements from the + button.
 Users newly registered to the application are in unapproved user status. 
 Admin can see unapproved users from the notification button in the upper right corner of the screen.
 
-Unapproved Users Screen
+# Unapproved Users Screen
 
 ![Screenshot_20230730_151223](https://github.com/muhammedaliturk/DormApp/assets/103900615/33b0c7a6-6b41-49e1-88a7-957fd2229d2d)
 

@@ -59,3 +59,11 @@ Admin can see unapproved users from the notification button in the upper right c
 The admin can approve the user from this page. After approval, the user can access the application.
 
 
+# Institution Setting Screen
+
+![Screenshot_20230801_003230](https://github.com/muhammedaliturk/DormApp/assets/103900615/160bdafa-51bc-4bec-8c92-6943bfb52082)
+
+![Screenshot_20230801_002757](https://github.com/muhammedaliturk/DormApp/assets/103900615/450ebbb4-7dae-4800-87f6-8b48b3181b12)
+
+
+
